@@ -1,0 +1,15 @@
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\bin\Debug\net7.0\Семинар_1.exe
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\bin\Debug\net7.0\Семинар_1.deps.json
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\bin\Debug\net7.0\Семинар_1.runtimeconfig.json
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\bin\Debug\net7.0\Семинар_1.dll
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\bin\Debug\net7.0\Семинар_1.pdb
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\obj\Debug\net7.0\Семинар_1.csproj.AssemblyReference.cache
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\obj\Debug\net7.0\Семинар_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\obj\Debug\net7.0\Семинар_1.AssemblyInfoInputs.cache
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\obj\Debug\net7.0\Семинар_1.AssemblyInfo.cs
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\obj\Debug\net7.0\Семинар_1.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\obj\Debug\net7.0\Семинар_1.dll
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\obj\Debug\net7.0\refint\Семинар_1.dll
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\obj\Debug\net7.0\Семинар_1.pdb
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\obj\Debug\net7.0\Семинар_1.genruntimeconfig.cache
+C:\Users\Leon\Desktop\Обучение GB\3. Знакомство с языками программирования\Семинары\Семинар_1\obj\Debug\net7.0\ref\Семинар_1.dll
