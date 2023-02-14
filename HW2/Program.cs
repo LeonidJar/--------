@@ -49,8 +49,11 @@ bool IsWeekEnd(int num)
 Console.Write("Enter a number of day in week: ");
 int dayNum = Convert.ToInt32(Console.ReadLine());
 
-if (IsWeekEnd(dayNum))
-    Console.WriteLine($"{dayNum} day of the week is weekend");
+if (dayNum > 7 || dayNum < 1)
+    Console.WriteLine($"There is no {dayNum} day in week");
 else
-    Console.WriteLine($"{dayNum} day of the week is not weekend");
+    if (IsWeekEnd(dayNum))
+        Console.WriteLine($"{dayNum} day of the week is weekend");
+    else
+        Console.WriteLine($"{dayNum} day of the week is not weekend");
 */
