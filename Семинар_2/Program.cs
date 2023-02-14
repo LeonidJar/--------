@@ -1,10 +1,17 @@
-﻿int CutNumber(int num)
+﻿/*
+int CutNumber(int num)
 {
-    int result = (num / 100) * 10 + num % 10;
+    int hundreds = num / 100;
+    int units = num % 10;
+    int result = hundreds * 10 + units;
+
     return result;
 }
 
-int num = new Random().Next(100, 1000);
+int randNum = new Random().Next(100, 1000);
 
-Console.WriteLine(num);
-Console.WriteLine(CutNumber(num));
+int newNum = CutNumber(randNum);
+
+Console.WriteLine($"New ver of {randNum} is {newNum}");
+*/
+
