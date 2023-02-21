@@ -61,7 +61,7 @@ Console.WriteLine($"Sum of digitns in {num} is {result}");
 */
 
 // Task 3. Напишите программу, которая задаёт массив из m элементов и выводит их на экран.
-
+/*
 int[] GetArray(int size)
 {
     int[] array = new int[size];
@@ -88,3 +88,4 @@ int size = Convert.ToInt32(Console.ReadLine());
 
 int[] myArray = GetArray(size);
 PrintArray(myArray);
+*/
