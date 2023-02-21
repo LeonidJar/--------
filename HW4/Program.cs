@@ -4,10 +4,11 @@
 int PowerFunc(int a, int b)
 {
     int i = 1;
+    int base = a;
 
     while (i < b)
     {
-        a *= a;
+        a *= base;
 
         i++;
     }
