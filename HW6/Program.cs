@@ -23,7 +23,7 @@ else
 
 // Task 2. Напишите программу, которая найдёт точку пересечения двух прямых, заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 и k2 задаются пользователем.
 /*
-void LineCrossing(int a1, int b1, int a2, int b2)
+void LineCrossing(double a1, double b1, double a2, double b2)
 {
     if (a1 == a2)
         if (b1 == b2)
@@ -32,10 +32,10 @@ void LineCrossing(int a1, int b1, int a2, int b2)
             Console.WriteLine("Lines are parallel"); 
     else
     {
-        int x = (b2 - b1) / (a1 - a2);
-        int y = a1 * x + b1;
+        double x = (b2 - b1) / (a1 - a2);
+        double y = a1 * x + b1;
 
-        Console.WriteLine($"Point of intersection of lines is [{x}, {y}]");
+        Console.WriteLine($"Point of intersection of lines is [{x}; {y}]");
     }
 }
 
