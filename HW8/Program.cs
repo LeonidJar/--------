@@ -262,7 +262,7 @@ int[,] SpiralFillingArray(int rows, int cols)
     int i = 0;
     int j = 0;
     int index = 0;
-    int[] target = {0, cols };
+    int[] target = {0, cols};
 
     while (current <= rows * cols)
     {
@@ -299,7 +299,7 @@ int[,] SpiralFillingArray(int rows, int cols)
             array[i, j] = current;
             current++;
         }
-        target[1] = rows - index;
+        target[1] = cols - index;
         j++;
         i++;
     }
