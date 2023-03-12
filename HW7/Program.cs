@@ -40,7 +40,7 @@ Print2dArray(CreateRandom2dArray());
 
 // Task 2.
 // Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, и возвращает значение этого элемента или же указание, что такого элемента нет.
-/*
+
 void ShowArrayElement(int[,] array, int m, int n)
 {
     if (m < 0 
@@ -75,7 +75,7 @@ int columns = Convert.ToInt32(Console.ReadLine());
 
 Print2dArray(myArray);
 ShowArrayElement(myArray, rows, columns);
-*/
+
 
 // Task 3.
 // Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
